@@ -1,0 +1,23 @@
+$primary-red: hsl(0, 78%, 62%);
+$primary-cyan: hsl(180, 62%, 55%);
+$primary-orange: hsl(34, 97%, 64%);
+$primary-blue: hsl(212, 86%, 64%);
+
+$neutral-dark-blue: hsl(234, 12%, 34%);
+$neutral-gray: hsl(229, 6%, 66%);
+$neutral-light: hsl(0, 0%, 98%);
+$neutral-white: hsl(0, 0%, 100%);
+
+
+h1{
+    color:$neutral-dark-blue;
+    font-size: 36px;
+    line-height: 120%;
+}
+
+p{
+    color: rgba($neutral-dark-blue, .5);
+    font-size: 13px;
+    line-height: 150%;
+}
+
